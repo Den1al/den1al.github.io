@@ -2,10 +2,6 @@
 layout: home
 ---
 
-# whoami
-
-## lala
-
 I'm a seasoned security research leader with over a decade of experience in various fields, including penetration testing, static code analysis, reverse engineering, software development, and more. I'm currently the Head of Research at [Oxeye Security](https://www.oxeye.io/), leading the security research endeavours of the organization.
 
 > ✨ "If I had 8 hours to chop down a tree, I would spend 6 of those hours sharpening my axe."
