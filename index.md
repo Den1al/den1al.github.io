@@ -34,7 +34,6 @@ I'm a seasoned security research leader with over a decade of experience in vari
 - ["BreakStage" – an Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/resources/remote-code-execution-in-spotifys-backstage)
 - [Enter "Sandbreak" - Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE-2022-36067)](https://www.oxeye.io/resources/vm2-sandbreak-vulnerability-cve-2022-36067)
 - [Guess Who’s (R)BAC?](https://www.oxeye.io/resources/guess-whos-rbac)
-
 - [“ParseThru” – Exploiting HTTP Parameter Smuggling in Golang](https://www.oxeye.io/resources/golang-parameter-smuggling-attack)
 - [Client Side Threats & How Could Website Owners Mitigate Them?](https://web.archive.org/web/20210228195217/https://blogs.akamai.com/2019/09/client-side-threats-how-could-website-owners-mitigate-them.html)
 
