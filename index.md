@@ -17,7 +17,7 @@ I'm a seasoned security research leader with over a decade of experience in vari
 | [Akamai](https://www.akamai.com/) | _2016-2021_ | Principal Security Research Lead |
 | [Avnet](https://www.rockwellautomation.com/en-us/capabilities/industrial-cybersecurity/it-solutions.html) | _2014-2016_ | Senior Security Researcher |
 
-### Public Appearnace
+### Public Appearance
 
 | **Conference** | **Year** | **Topic** |
 | BlueHat IL | 2023 | [The Story of a Backstage RCE](https://www.youtube.com/watch?v=PKUdLqLLAes&ab_channel=MicrosoftIsraelR%26DCenter) |
@@ -34,6 +34,7 @@ I'm a seasoned security research leader with over a decade of experience in vari
 - ["BreakStage" – an Unauthenticated Remote Code Execution in Spotify’s Backstage](https://www.oxeye.io/resources/remote-code-execution-in-spotifys-backstage)
 - [Enter "Sandbreak" - Vulnerability In vm2 Sandbox Module Enables Remote Code Execution (CVE-2022-36067)](https://www.oxeye.io/resources/vm2-sandbreak-vulnerability-cve-2022-36067)
 - [Guess Who’s (R)BAC?](https://www.oxeye.io/resources/guess-whos-rbac)
+
 - [“ParseThru” – Exploiting HTTP Parameter Smuggling in Golang](https://www.oxeye.io/resources/golang-parameter-smuggling-attack)
 - [Client Side Threats & How Could Website Owners Mitigate Them?](https://web.archive.org/web/20210228195217/https://blogs.akamai.com/2019/09/client-side-threats-how-could-website-owners-mitigate-them.html)
 
@@ -59,4 +60,9 @@ I'm a seasoned security research leader with over a decade of experience in vari
 
 #### Resources:
 
-- [Black Hat USA: Log4j de-obfuscator Ox4Shell ‘dramatically’ reduces analysis time](https://portswigger.net/daily-swig/black-hat-usa-log4j-de-obfuscator-ox4shell-dramatically-reduces-analysis-time)- [Oxeye Mitigates Log4Shell Vulnerability with Ox4Shell – Payload Deobfuscation Tool](https://www.oxeye.io/press-releases/oxeye-mitigates-log4shell-vulnerability-with-ox4shell-open-source)- [Oxeye Tool Can Counter Log4j Obfuscation Attacks](https://securityboulevard.com/2022/01/oxeye-tool-can-counter-log4j-obfuscation-attacks/)- [JSShell takes cross-site scripting to new highs](https://portswigger.net/daily-swig/jsshell-takes-cross-site-scripting-to-new-highs)- [10 Top Tools for Threat Hunters from Black Hat USA 2019](https://securityboulevard.com/2019/09/10-top-tools-for-threat-hunters-from-black-hat-usa-2019/)- [mqtt-pwn: IoT Broker penetration-testing and security assessment operations](https://securityonline.info/mqtt-pwn/)
+- [Black Hat USA: Log4j de-obfuscator Ox4Shell ‘dramatically’ reduces analysis time](https://portswigger.net/daily-swig/black-hat-usa-log4j-de-obfuscator-ox4shell-dramatically-reduces-analysis-time)
+- [Oxeye Mitigates Log4Shell Vulnerability with Ox4Shell – Payload Deobfuscation Tool](https://www.oxeye.io/press-releases/oxeye-mitigates-log4shell-vulnerability-with-ox4shell-open-source)
+- [Oxeye Tool Can Counter Log4j Obfuscation Attacks](https://securityboulevard.com/2022/01/oxeye-tool-can-counter-log4j-obfuscation-attacks/)
+- [JSShell takes cross-site scripting to new highs](https://portswigger.net/daily-swig/jsshell-takes-cross-site-scripting-to-new-highs)
+- [10 Top Tools for Threat Hunters from Black Hat USA 2019](https://securityboulevard.com/2019/09/10-top-tools-for-threat-hunters-from-black-hat-usa-2019/)
+- [mqtt-pwn: IoT Broker penetration-testing and security assessment operations](https://securityonline.info/mqtt-pwn/)
