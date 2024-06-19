@@ -13,6 +13,7 @@ I'm a seasoned security research leader with over a decade of experience in vari
 ### Employment Background
 
 | **Company** | **Years** | **Position** |
+| [GitLab](https://www.gitlab.com/) | _2024-Present_ | Staff Vulnerability Research Engineer |
 | [Oxeye](https://www.oxeye.io/) | _2021-2024_ | Head of Research |
 | [Akamai](https://www.akamai.com/) | _2016-2021_ | Principal Security Research Lead |
 | [Avnet](https://www.rockwellautomation.com/en-us/capabilities/industrial-cybersecurity/it-solutions.html) | _2014-2016_ | Senior Security Researcher |
