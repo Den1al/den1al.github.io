@@ -4,7 +4,7 @@ layout: home
 
 #### `❯` whoami?
 
-I'm a seasoned security research leader with over a decade of experience in various fields, including penetration testing, static code analysis, reverse engineering, software development, and more. I'm currently the Head of Research at [Oxeye Security](https://www.oxeye.io/), leading the security research endeavours of the organization.
+I'm a seasoned security research leader with over a decade of experience in various fields, including penetration testing, static code analysis, reverse engineering, software development, and more. Following Oxeye's acquisition by GitLab, I'm currently leading the [GitLab](https://gitlab.com/) Vulnerability Research Group, which is responsible for the security research endeavors of the organization.
 
 > ✨ "If I had 8 hours to chop down a tree, I would spend 6 of those hours sharpening my axe."
 
@@ -13,6 +13,7 @@ I'm a seasoned security research leader with over a decade of experience in vari
 ### Employment Background
 
 | **Company** | **Years** | **Position** |
+| [GitLab](https://gitlab.com/) | _2024-present_ | Vulnerability Research Manager |
 | [Oxeye](https://www.oxeye.io/) | _2021-2024_ | Head of Research |
 | [Akamai](https://www.akamai.com/) | _2016-2021_ | Principal Security Research Lead |
 | [Avnet](https://www.rockwellautomation.com/en-us/capabilities/industrial-cybersecurity/it-solutions.html) | _2014-2016_ | Senior Security Researcher |
