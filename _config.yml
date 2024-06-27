@@ -21,7 +21,7 @@
 title: Daniel Abeles
 email: hello@abeles.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  whoami
+  ~/whoami
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Daniel_Abeles
