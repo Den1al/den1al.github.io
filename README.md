@@ -1,12 +1,15 @@
-# Personal Portfolio
+# My Personal Portfolio
 
-A personal portfolio website built with SvelteKit featuring a Terminal Editorial design aesthetic.
+My personal portfolio website built with SvelteKit featuring a Terminal Editorial design aesthetic.
+
+Go to https://abeles.dev for a live view.
 
 ## Color Scheme
 
 ### Purple Palette
-| Name | Hex |
-|------|-----|
+
+| Name       | Hex       |
+| ---------- | --------- |
 | Purple 100 | `#CEB3EF` |
 | Purple 200 | `#A989F5` |
 | Purple 300 | `#7759C2` |
@@ -15,15 +18,17 @@ A personal portfolio website built with SvelteKit featuring a Terminal Editorial
 | Purple 600 | `#232150` |
 
 ### Teal Palette
-| Name | Hex |
-|------|-----|
+
+| Name     | Hex       |
+| -------- | --------- |
 | Teal 100 | `#C5F4EC` |
 | Teal 200 | `#6FDAC9` |
 | Teal 300 | `#10B1B1` |
 
 ### Neutrals
-| Name | Hex |
-|------|-----|
+
+| Name     | Hex       |
+| -------- | --------- |
 | Dark 900 | `#0A0A0F` |
 | Dark 800 | `#111118` |
 | Dark 700 | `#171321` |
