@@ -13,6 +13,7 @@
 	];
 
 	const conferences = [
+		{ name: 'DC9723', year: '2025', topic: 'What Happens When Packages Start Maintaining Themselves', url: 'https://www.linkedin.com/posts/daniel-abeles_shaihulud-supplychain-security-activity-7409865175396425729-WgTY' },
 		{ name: 'BlueHat IL', year: '2023', topic: 'The Story of a Backstage RCE', url: 'https://www.youtube.com/watch?v=PKUdLqLLAes' },
 		{ name: 'Blackhat Arsenal', year: '2022', topic: 'Ox4Shell - Deobfuscate Log4Shell', url: 'https://www.blackhat.com/us-22/arsenal/schedule/#oxshell' },
 		{ name: 'BSides Las Vegas', year: '2020', topic: 'Abusing Service Workers Web API', url: 'https://www.youtube.com/watch?v=b7V5_xnXA1U' },
