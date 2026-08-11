@@ -46,6 +46,7 @@
 	];
 
 	const blogPosts = [
+		{ title: 'Shai-Hulud copycat campaign targets Python developers', url: 'https://about.gitlab.com/blog/shai-hulud-copycat-campaign-targets-python-developers/' },
 		{ title: 'GitLab discovers widespread npm supply chain attack', url: 'https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/' },
 		{ title: 'Take Me to Prom - Exploiting RCE in openTSDB through Prometheus', url: 'https://web.archive.org/web/20231001020456/https://www.oxeye.io/resources/take-me-to-prom-exploiting-an-rce-in-opentsdb-through-prometheus' },
 		{ title: 'Gophers & Bees - Parsing Golang structures with eBPF', url: 'https://web.archive.org/web/20231001024726/https://www.oxeye.io/resources/parsing-golang-structures-in-memory-with-ebpf' },
