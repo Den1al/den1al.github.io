@@ -53,7 +53,8 @@
 		{ title: 'RCE through SQL Injection in Hashicorp Vault', url: 'https://web.archive.org/web/20230528000205/https://www.oxeye.io/resources/rce-through-sql-injection-vulnerability-in-hashicorps-vault' },
 		{ title: 'BreakStage - Unauthenticated RCE in Spotify Backstage', url: 'https://web.archive.org/web/20230527233012/https://www.oxeye.io/resources/remote-code-execution-in-spotifys-backstage' },
 		{ title: 'Sandbreak - VM2 Sandbox Escape (CVE-2022-36067)', url: 'https://web.archive.org/web/20230528002552/https://www.oxeye.io/resources/vm2-sandbreak-vulnerability-cve-2022-36067' },
-		{ title: 'ParseThru - HTTP Parameter Smuggling in Golang', url: 'https://web.archive.org/web/20230527224815/https://www.oxeye.io/resources/golang-parameter-smuggling-attack' }
+		{ title: 'ParseThru - HTTP Parameter Smuggling in Golang', url: 'https://web.archive.org/web/20230527224815/https://www.oxeye.io/resources/golang-parameter-smuggling-attack' },
+		{ title: 'Abusing the Service Workers API', url: 'https://www.akamai.com/blog/security/abusing-the-service-workers-api' }
 	];
 
 	const skills = [
